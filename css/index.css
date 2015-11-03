@@ -1,0 +1,40 @@
+h1 {
+	padding-left: 125px;
+	font-family: Arial;
+}
+
+.wrapper {
+	width: 320px;
+	margin: 0 auto;
+}
+
+#slider {
+	width: 320px;
+	height: 230px;
+	overflow: hidden;
+	margin: 30px auto;
+}
+
+#slider img {
+	width:320px;
+	height:230px;
+	float: left;
+	display: none;
+}
+
+button {
+	text-decoration: none;
+	font-family:Arial;
+	padding: 5px 10px;
+	background-color: #D3D3D3;
+	color: #666;
+	border-radius:3px;
+}
+
+#left {
+	float:left;
+}
+
+#right {
+	float:right;
+}
